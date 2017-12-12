@@ -3,6 +3,7 @@
 // })
 //test change
 
+//object spread operator
 const user = { username: 'angelica' }
 const adminUser = {
   ...user,
